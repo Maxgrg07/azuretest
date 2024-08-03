@@ -18,7 +18,7 @@ const config = {
   user: "azureuser",
   password: "P@ssw0rd",
   server: "week1101.database.windows.net",
-  database: "test",
+  database: "week1101",
   options: {
     encrypt: true,
     enableArithAbort: true,
